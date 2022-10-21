@@ -1,0 +1,7 @@
+.accounts__main{
+  .accounts__content{
+    &>*{
+      flex-basis: 40%;
+    }
+  }
+}

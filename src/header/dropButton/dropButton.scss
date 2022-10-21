@@ -1,0 +1,11 @@
+.header__sidebar_dropdown{
+  button::after{
+    content: url("@src/_img/header/header_afterButton.svg");
+  }
+  .header__dropdown-content {
+    visibility: hidden;
+  }
+  &:hover .header__dropdown-content {
+    visibility: visible;
+  }
+}

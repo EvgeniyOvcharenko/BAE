@@ -1,0 +1,22 @@
+@import "@src/style/consts.scss";
+
+.orange-button{
+  width: 255px;
+  display:flex;
+  justify-content: space-between;
+  white-space: nowrap;
+  align-items: center;
+  background-color: $orange;
+  padding: 10px;
+  border: none;
+  color: $colorForOrangeButton;
+  @media screen and (max-width: 1080px){
+    margin: 20px 0;
+  }
+  span{
+    padding-right: 10px;
+  }
+  &:hover{
+    background-color: orange;;
+  }
+}

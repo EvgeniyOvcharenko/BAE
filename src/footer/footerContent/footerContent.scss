@@ -1,0 +1,15 @@
+.footer__list_item{
+  padding-left: 32px;
+  white-space: nowrap;
+  @media screen and (max-width: 1080px){
+    padding-left: 0;
+    width: 30%;
+  }
+  ul{
+    padding:0;
+    li{
+      
+      list-style: none;
+    }
+  }
+}

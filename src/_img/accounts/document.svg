@@ -1,0 +1,12 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="64" height="64" rx="2" fill="#F98232"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M37 43H40V48L38.5 47.3178L37 48V43Z" fill="#DC5F0A"/>
+<path d="M36.4998 43.7879L36.6528 44.3357L37.1765 44.1137L38.5 43.5528L39.8235 44.1137L40.3472 44.3357L40.5002 43.7879L40.8868 42.4034L42.1505 41.7184L42.6506 41.4473L42.3176 40.9862L41.4763 39.8207L41.7286 38.4056L41.8285 37.8456L41.2604 37.8184L39.8246 37.7495L38.8755 36.6699L38.5 36.2427L38.1245 36.6699L37.1754 37.7495L35.7396 37.8184L35.1715 37.8456L35.2714 38.4056L35.5237 39.8207L34.6824 40.9862L34.3494 41.4473L34.8495 41.7184L36.1132 42.4034L36.4998 43.7879Z" fill="white" stroke="#F98232"/>
+<rect x="17" y="11" width="30" height="42" rx="1" stroke="white" stroke-width="2"/>
+<rect x="22" y="17" width="20" height="2" fill="#DC5F0A"/>
+<rect x="22" y="22" width="20" height="2" fill="#DC5F0A"/>
+<rect x="22" y="27" width="20" height="2" fill="#DC5F0A"/>
+<rect x="22" y="32" width="20" height="2" fill="#DC5F0A"/>
+<rect x="22" y="37" width="10" height="2" fill="#DC5F0A"/>
+<rect x="22" y="42" width="10" height="2" fill="#DC5F0A"/>
+</svg>

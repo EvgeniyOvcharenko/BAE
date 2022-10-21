@@ -1,0 +1,9 @@
+@import "./src/style/resetStyle.scss";
+@import "./src/style/fonts.scss";
+@import "./src/style/consts.scss";
+
+body{
+  font-family:gt-walsheim-medium,Helvetica,Arial,Verdana,Tahoma,sans-serif;
+  color: $black;
+  margin: 0 auto;
+}

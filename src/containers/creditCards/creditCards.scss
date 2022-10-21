@@ -1,0 +1,29 @@
+.card-section{
+  display: flex;
+  justify-content: space-between;
+  overflow: hidden;
+  .card-section__title{
+    padding: 150px 0 0 7%;
+    @media screen and (max-width: 1080px){
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    p{
+      text-transform: uppercase;
+      font-size: 14px;
+      color: #F98232;
+    }
+    h2{
+      white-space: nowrap;
+      padding: 10px 0 31px 0;
+      font-size: 68px;
+      line-height: 80px;
+      @media screen and (max-width: 1080px){
+        font-size: 59px;
+        line-height: 70px;
+      }
+    }
+  }
+
+}
